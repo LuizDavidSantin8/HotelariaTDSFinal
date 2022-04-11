@@ -1,0 +1,11 @@
+C:\Users\luiz-\source\repos\SsitemaHotel\SsitemaHotel\bin\Debug\SsitemaHotel.exe.config
+C:\Users\luiz-\source\repos\SsitemaHotel\SsitemaHotel\bin\Debug\SsitemaHotel.exe
+C:\Users\luiz-\source\repos\SsitemaHotel\SsitemaHotel\bin\Debug\SsitemaHotel.pdb
+C:\Users\luiz-\source\repos\SsitemaHotel\SsitemaHotel\obj\Debug\SsitemaHotel.csproj.AssemblyReference.cache
+C:\Users\luiz-\source\repos\SsitemaHotel\SsitemaHotel\obj\Debug\SsitemaHotel.csproj.SuggestedBindingRedirects.cache
+C:\Users\luiz-\source\repos\SsitemaHotel\SsitemaHotel\obj\Debug\SsitemaHotel.Properties.Resources.resources
+C:\Users\luiz-\source\repos\SsitemaHotel\SsitemaHotel\obj\Debug\SsitemaHotel.csproj.GenerateResource.cache
+C:\Users\luiz-\source\repos\SsitemaHotel\SsitemaHotel\obj\Debug\SsitemaHotel.csproj.CoreCompileInputs.cache
+C:\Users\luiz-\source\repos\SsitemaHotel\SsitemaHotel\obj\Debug\SsitemaHotel.exe
+C:\Users\luiz-\source\repos\SsitemaHotel\SsitemaHotel\obj\Debug\SsitemaHotel.pdb
+C:\Users\luiz-\source\repos\SsitemaHotel\SsitemaHotel\obj\Debug\SsitemaHotel.FrmLogin.resources
